@@ -207,6 +207,10 @@ We are constantly working to improve the user experience. Here is the roadmap fo
 - [ ] **User Preferences:** Save user settings (active watchlist, theme, window layout) locally so they persist after restarting the application.
 - [ ] **Multiple Timeframes:** Add support for customizable chart intervals (e.g., 15m, 1h, 4h, 1D) instead of the fixed 30m timeframe.
 
+## 🎥 VDO
+[![Watch the VDO in DRIVE ](vdo.png)](https://drive.google.com/file/d/1m6fnlLG7Db-d16-Mwa9HOAKRFeBQTfmV/view?usp=drive_link)
+[![Watch the VDO  in YOUTUBE](vdo1.png)](https://youtu.be/olNDohdmQ3g?si=8ecFJZ6yu23uagKy)
+
 ## 📝 Notes
 
 * This project is intended for **educational purposes only**
