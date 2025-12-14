@@ -32,12 +32,6 @@ crypto_dashboard/
 │   ├── history.py         # Trade history panel
 │   └── controls.py        # Buy / Sell simulation controls
 │
-├── test/                  # Unit and integration tests
-│   ├── test_all.py        # Runner for all tests
-│   ├── test_gui.py        # GUI component tests
-│   ├── test_rest_api.py   # REST API connection tests
-│   └── test_websocket.py  # WebSocket streaming tests
-│
 └── utils/                 # Configuration and utility modules
     ├── __init__.py        # Marks utils as a Python package
     └── config.py          # Color themes and font settings
